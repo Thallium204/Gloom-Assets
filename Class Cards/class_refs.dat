@@ -3,113 +3,132 @@
     {
         "spoiler_name":"",
         "display_name":"Diviner1",
+        "card_range":["574","601"],
     },
 
     "AD-2nd":
     {
         "spoiler_name":"",
         "display_name":"Diviner2",
+        "card_range":["574","601"],
     },
 
     "AS":
     {
         "spoiler_name":"Circles",
         "display_name":"Summoner",
+        "card_range":["233","260"],
     },
 
     "BR":
     {
         "spoiler_name":"",
         "display_name":"Brute",
+        "card_range":["000","000"],
     },
 
     "BT":
     {
         "spoiler_name":"Pheonix",
         "display_name":"Beast Tyrant",
+        "card_range":["477","505"],
     },
 
     "CE":
     {
         "spoiler_name":"Triangles",
         "display_name":"Elementalist",
+        "card_range":["447","472"],
     },
 
     "CR":
     {
         "spoiler_name":"",
         "display_name":"Cragheart",
+        "card_range":["000","000"],
     },
 
     "DS":
     {
         "spoiler_name":"Angry Face",
         "display_name":"Doomstalker",
+        "card_range":["000","000"],
     },
 
     "IB":
     {
         "spoiler_name":"Lightning",
         "display_name":"Berserker",
+        "card_range":["000","000"],
     },
 
     "MT":
     {
         "spoiler_name":"",
         "display_name":"Mind Theif",
+        "card_range":["000","000"],
     },
 
     "NS":
     {
         "spoiler_name":"Eclipse",
         "display_name":"Nightshroud",
+        "card_range":["000","000"],
     },
 
     "PH":
     {
         "spoiler_name":"Cthulu",
         "display_name":"Plagueherald",
+        "card_range":["289","318"],
     },
 
     "QM":
     {
         "spoiler_name":"Three Spears",
         "display_name":"Quartermaster",
+        "card_range":["000","000"],
     },
 
     "QS":
     {
         "spoiler_name":"Music Note",
         "display_name":"Soothsinger",
+        "card_range":["000","000"],
     },
 
     "QT":
     {
         "spoiler_name":"",
         "display_name":"Tinkerer",
+        "card_range":["000","000"],
     },
 
     "SAW":
     {
         "spoiler_name":"Saw",
         "display_name":"Sawbones",
+        "card_range":["000","000"],
     },
 
     "SC":
     {
         "spoiler_name":"",
         "display_name":"Scoundrel",
+        "card_range":["000","000"],
     },
 
     "SK":
     {
         "spoiler_name":"Sun",
         "display_name":"Sunkeeper",
+        "card_range":["175","204"],
     },
 
     "SW":
     {
         "spoiler_name":"",
         "display_name":"Spellweaver",
+        "card_range":["061","087"],
     },
 }
