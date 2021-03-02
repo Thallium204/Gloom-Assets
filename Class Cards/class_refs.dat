@@ -1,0 +1,115 @@
+{
+    "AD-1st":
+    {
+        "spoiler_name":"",
+        "display_name":"Diviner1",
+    },
+
+    "AD-2nd":
+    {
+        "spoiler_name":"",
+        "display_name":"Diviner2",
+    },
+
+    "AS":
+    {
+        "spoiler_name":"Circles",
+        "display_name":"Summoner",
+    },
+
+    "BR":
+    {
+        "spoiler_name":"",
+        "display_name":"Brute",
+    },
+
+    "BT":
+    {
+        "spoiler_name":"Pheonix",
+        "display_name":"Beast Tyrant",
+    },
+
+    "CE":
+    {
+        "spoiler_name":"Triangles",
+        "display_name":"Elementalist",
+    },
+
+    "CR":
+    {
+        "spoiler_name":"",
+        "display_name":"Cragheart",
+    },
+
+    "DS":
+    {
+        "spoiler_name":"Angry Face",
+        "display_name":"Doomstalker",
+    },
+
+    "IB":
+    {
+        "spoiler_name":"Lightning",
+        "display_name":"Berserker",
+    },
+
+    "MT":
+    {
+        "spoiler_name":"",
+        "display_name":"Mind Theif",
+    },
+
+    "NS":
+    {
+        "spoiler_name":"Eclipse",
+        "display_name":"Nightshroud",
+    },
+
+    "PH":
+    {
+        "spoiler_name":"Cthulu",
+        "display_name":"Plagueherald",
+    },
+
+    "QM":
+    {
+        "spoiler_name":"Three Spears",
+        "display_name":"Quartermaster",
+    },
+
+    "QS":
+    {
+        "spoiler_name":"Music Note",
+        "display_name":"Soothsinger",
+    },
+
+    "QT":
+    {
+        "spoiler_name":"",
+        "display_name":"Tinkerer",
+    },
+
+    "SAW":
+    {
+        "spoiler_name":"Saw",
+        "display_name":"Sawbones",
+    },
+
+    "SC":
+    {
+        "spoiler_name":"",
+        "display_name":"Scoundrel",
+    },
+
+    "SK":
+    {
+        "spoiler_name":"Sun",
+        "display_name":"Sunkeeper",
+    },
+
+    "SW":
+    {
+        "spoiler_name":"",
+        "display_name":"Spellweaver",
+    },
+}
