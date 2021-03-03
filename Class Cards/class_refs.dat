@@ -1,134 +1,136 @@
 {
-    "AD-1st":
-    {
-        "spoiler_name":"",
-        "display_name":"Diviner1",
-        "card_range":["574","601"],
-    },
 
-    "AD-2nd":
-    {
-        "spoiler_name":"",
-        "display_name":"Diviner2",
-        "card_range":["574","601"],
-    },
-
-    "AS":
-    {
-        "spoiler_name":"Circles",
-        "display_name":"Summoner",
-        "card_range":["233","260"],
-    },
-
-    "BR":
+    "01 Brute":
     {
         "spoiler_name":"",
         "display_name":"Brute",
         "card_range":["000","000"],
     },
 
-    "BT":
-    {
-        "spoiler_name":"Pheonix",
-        "display_name":"Beast Tyrant",
-        "card_range":["477","505"],
-    },
-
-    "CE":
-    {
-        "spoiler_name":"Triangles",
-        "display_name":"Elementalist",
-        "card_range":["447","472"],
-    },
-
-    "CR":
-    {
-        "spoiler_name":"",
-        "display_name":"Cragheart",
-        "card_range":["000","000"],
-    },
-
-    "DS":
-    {
-        "spoiler_name":"Angry Face",
-        "display_name":"Doomstalker",
-        "card_range":["000","000"],
-    },
-
-    "IB":
-    {
-        "spoiler_name":"Lightning",
-        "display_name":"Berserker",
-        "card_range":["000","000"],
-    },
-
-    "MT":
-    {
-        "spoiler_name":"",
-        "display_name":"Mind Theif",
-        "card_range":["000","000"],
-    },
-
-    "NS":
-    {
-        "spoiler_name":"Eclipse",
-        "display_name":"Nightshroud",
-        "card_range":["000","000"],
-    },
-
-    "PH":
-    {
-        "spoiler_name":"Cthulu",
-        "display_name":"Plagueherald",
-        "card_range":["289","318"],
-    },
-
-    "QM":
-    {
-        "spoiler_name":"Three Spears",
-        "display_name":"Quartermaster",
-        "card_range":["000","000"],
-    },
-
-    "QS":
-    {
-        "spoiler_name":"Music Note",
-        "display_name":"Soothsinger",
-        "card_range":["000","000"],
-    },
-
-    "QT":
+    "02 Tinkerer":
     {
         "spoiler_name":"",
         "display_name":"Tinkerer",
         "card_range":["000","000"],
     },
 
-    "SAW":
+    "03 Spellweaver":
     {
-        "spoiler_name":"Saw",
-        "display_name":"Sawbones",
-        "card_range":["000","000"],
+        "spoiler_name":"",
+        "display_name":"Spellweaver",
+        "card_range":["061","087"],
     },
 
-    "SC":
+    "04 Scoundrel":
     {
         "spoiler_name":"",
         "display_name":"Scoundrel",
         "card_range":["000","000"],
     },
 
-    "SK":
+    "05 Cragheart":
+    {
+        "spoiler_name":"",
+        "display_name":"Cragheart",
+        "card_range":["000","000"],
+    },
+
+    "06 Mindthief":
+    {
+        "spoiler_name":"",
+        "display_name":"Mind Theif",
+        "card_range":["000","000"],
+    },
+
+    "07 Sun":
     {
         "spoiler_name":"Sun",
         "display_name":"Sunkeeper",
         "card_range":["175","204"],
     },
 
-    "SW":
+    "08 Three Spears":
+    {
+        "spoiler_name":"Three Spears",
+        "display_name":"Quartermaster",
+        "card_range":["000","000"],
+    },
+
+    "09 Circles":
+    {
+        "spoiler_name":"Circles",
+        "display_name":"Summoner",
+        "card_range":["233","260"],
+    },
+
+    "10 Eclipse":
+    {
+        "spoiler_name":"Eclipse",
+        "display_name":"Nightshroud",
+        "card_range":["000","000"],
+    },
+
+    "11 Squidface":
+    {
+        "spoiler_name":"Squidface",
+        "display_name":"Plagueherald",
+        "card_range":["289","318"],
+    },
+
+    "12 Lightning":
+    {
+        "spoiler_name":"Lightning",
+        "display_name":"Berserker",
+        "card_range":["000","000"],
+    },
+
+    "13 Music Note":
+    {
+        "spoiler_name":"Music Note",
+        "display_name":"Soothsinger",
+        "card_range":["000","000"],
+    },
+
+    "14 Angry Face":
+    {
+        "spoiler_name":"Angry Face",
+        "display_name":"Doomstalker",
+        "card_range":["000","000"],
+    },
+
+    "15 Saw":
+    {
+        "spoiler_name":"Saw",
+        "display_name":"Sawbones",
+        "card_range":["000","000"],
+    },
+
+    "16 Triangles":
+    {
+        "spoiler_name":"Triangles",
+        "display_name":"Elementalist",
+        "card_range":["447","472"],
+    },
+
+    "17 Two-mini":
+    {
+        "spoiler_name":"Pheonix",
+        "display_name":"Beast Tyrant",
+        "card_range":["477","505"],
+    },
+
+    "18-1 Diviner":
     {
         "spoiler_name":"",
-        "display_name":"Spellweaver",
-        "card_range":["061","087"],
+        "display_name":"Diviner1",
+        "card_range":["574","601"],
     },
+
+    "18-2 Diviner":
+    {
+        "spoiler_name":"",
+        "display_name":"Diviner2",
+        "card_range":["574","601"],
+    },
+
 }
